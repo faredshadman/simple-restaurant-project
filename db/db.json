@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "farid",
+      "email": "farid@test.com",
+      "password": "farid@12345",
+      "id": 1
+    },
+    {
+      "name": "farid",
+      "email": "faridshadmanli@gmail.com",
+      "password": "ferid12345",
+      "id": 2
+    },
+    {
+      "name": "salam",
+      "email": "salam@gmail.com",
+      "password": "salam",
+      "id": 3
+    },
+    {
+      "name": "farid",
+      "email": "faridshadmanli@gmail.com",
+      "password": "farid1234",
+      "id": 4
+    },
+    {
+      "name": "farid",
+      "email": "farid@gmail.com",
+      "password": "farid12345",
+      "id": 5
+    },
+    {
+      "name": "farid",
+      "email": "faridshadmanli@gmail.com",
+      "password": "ferid12345",
+      "id": 6
+    },
+    {
+      "name": "farid",
+      "email": "faridshadmanli@gmail.com",
+      "password": "farid12345",
+      "id": 7
+    },
+    {
+      "name": "sign",
+      "email": "fjafab@gmail.com",
+      "password": "fakfnaf",
+      "id": 8
+    },
+    {
+      "name": "sjana",
+      "email": "sjab@gmail.com",
+      "password": "ferid12345",
+      "id": 9
+    },
+    {
+      "name": "fakcajln",
+      "email": "vjnsjv@gmail.com",
+      "password": "snjvnsvs",
+      "id": 10
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "sasj",
+      "address": "snajcna",
+      "contact": "klncaca",
+      "id": 6
+    },
+    {
+      "name": "Burger King",
+      "address": "Baku22",
+      "contact": 111,
+      "id": 7
+    },
+    {
+      "name": "Burger King",
+      "address": "Baku11",
+      "contact": 111,
+      "id": 8
+    }
+  ]
+}
